@@ -1,0 +1,29 @@
+{
+  "name": "BTK Agency - Agence Web & Marketing Digital",
+  "short_name": "BTK Agency",
+  "description": "BTK Agency - Agence spécialisée en développement web, marketing digital et design",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#FF6B35",
+  "icons": [
+    {
+      "src": "/btkblack-large.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/btkblack.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/btkwhite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+} 
